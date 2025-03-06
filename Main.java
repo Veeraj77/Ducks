@@ -12,3 +12,12 @@ public class Main {
         System.out.println("----------");
 
 
+        RubberDuck rd= new RubberDuck();
+        System.out.println("----------");
+        rd.display();
+        rd.performQuack();
+        rd.performSwim();
+        rd.performFly();
+        System.out.println("----------");
+
+
