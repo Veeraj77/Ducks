@@ -21,3 +21,11 @@ public class Main {
         System.out.println("----------");
 
 
+        RedHeadDuck rhd= new RedHeadDuck();
+        System.out.println("----------");
+        rhd.display();
+        rhd.performQuack();
+        rhd.performSwim();
+        rhd.performFly();
+        System.out.println("----------");
+
