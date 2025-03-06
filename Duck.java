@@ -23,3 +23,8 @@ abstract public class Duck {
     public void performSwim(){
         swimBehaviour.swim();
     }
+    public void performFly(){
+        flyingBehaviour.fly();
+    }
+
+}
