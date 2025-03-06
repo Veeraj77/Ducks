@@ -29,3 +29,13 @@ public class Main {
         rhd.performFly();
         System.out.println("----------");
 
+        DecoyDuck dd = new DecoyDuck();
+        System.out.println("----------");
+        dd.display();
+        dd.performQuack();
+        dd.performSwim();
+        dd.performFly();
+        System.out.println("----------");
+
+    }
+}
