@@ -14,3 +14,6 @@ abstract public class Duck {
         this.flyingBehaviour = flyingBehaviour;
     }
 
+    abstract public void display();
+
+
