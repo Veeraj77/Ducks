@@ -20,3 +20,6 @@ abstract public class Duck {
     public void performQuack(){
         quackBehaviour.quack();
     }
+    public void performSwim(){
+        swimBehaviour.swim();
+    }
