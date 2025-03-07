@@ -46,3 +46,4 @@ SwimWithLegs: Ducks that swim normally.
 
 Floating: Ducks that simply float without swimming.
  
+https://github.com/Veeraj77/Ducks/issues/1#issue-2902682728
